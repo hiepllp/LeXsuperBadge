@@ -1,0 +1,77 @@
+[
+    [
+        "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1542981516953,
+            "changeTime": 1542981516953,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1542981516953,
+            "changeTime": 1542981516953,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1542982515371,
+            "changeTime": 1542982515371,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1542982516992,
+            "changeTime": 1542982516992,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\Nathan\\Desktop\\Documents\\Salesforce\\SFDX\\superbadge-lex-rd",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1542981675894,
+            "changeTime": 1542981675894,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
