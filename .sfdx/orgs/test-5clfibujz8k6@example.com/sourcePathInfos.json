@@ -32,14 +32,14 @@
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543239824009,
-            "changeTime": 1543239824009,
-            "contentHash": "29c9c9ac24daebf86feb2707047124368d6fce9f"
+            "modifiedTime": 1543244745484,
+            "changeTime": 1543244745484,
+            "contentHash": "9b7aeb300ed3fc3e77164a48528dda7ef407c8c6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -663,13 +663,11 @@
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1542984078832,
-            "changeTime": 1543220972537,
-            "contentHash": "a94c3e954f522c4a577695f47b49569dd96728f8",
+            "modifiedTime": 1543244745500,
+            "changeTime": 1543244745500,
+            "contentHash": "f7d904bee2d3dda2b047fc1d6dd15640f1b4910f",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -692,14 +690,12 @@
         {
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\flexipages\\SolarBot_App_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 1711,
-            "modifiedTime": 1542984078831,
-            "changeTime": 1543220970981,
-            "contentHash": "c79146e13d73bda48d2546b3c3f26da3e29e132e",
+            "size": 2201,
+            "modifiedTime": 1543244745506,
+            "changeTime": 1543244745506,
+            "contentHash": "404449acc5c36033cb983a90c2a4c19ad6fa3c79",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1382,14 +1378,12 @@
         {
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\objects\\SolarBot__c\\SolarBot__c.object-meta.xml",
             "isDirectory": false,
-            "size": 2084,
-            "modifiedTime": 1542984078923,
-            "changeTime": 1543220971184,
-            "contentHash": "210665f5814df284196b6c081126699b2a20a985",
+            "size": 2338,
+            "modifiedTime": 1543244745432,
+            "changeTime": 1543244745432,
+            "contentHash": "f7b9379344a9916a17761bf3ef3162aafaccfbac",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1530,14 +1524,14 @@
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_Executive_Reports\\SolarBot_Loyalty_Revenue_EC4.report-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_Executive_Reports\\SolarBot_Loyalty_Revenue_EC4.report-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2989,
             "modifiedTime": 1543239823956,
             "changeTime": 1543239823956,
-            "contentHash": "656f0b1146ab4ab89328b75e313331a26f79b5ef"
+            "contentHash": "656f0b1146ab4ab89328b75e313331a26f79b5ef",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1588,14 +1582,14 @@
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_RD_Reports\\Temperature_to_kWh_Research_8OR.report-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_RD_Reports\\Temperature_to_kWh_Research_8OR.report-meta.xml",
             "isDirectory": false,
+            "size": 3479,
+            "modifiedTime": 1543244745473,
+            "changeTime": 1543244745473,
+            "contentHash": "7385c19a179f6bd9751b10fa238b48bc8ac02f25",
             "isMetadataFile": true,
-            "size": 2121,
-            "modifiedTime": 1543239823964,
-            "changeTime": 1543239823964,
-            "contentHash": "7ea2a9d75e900f5a350b306c68cebc1537ce56e5"
+            "state": "u"
         }
     ],
     [
@@ -1633,14 +1627,12 @@
         {
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_Sales_Reports\\Accounts_Without_SolarBot_Opportunities_UoC.report-meta.xml",
             "isDirectory": false,
-            "size": 1297,
-            "modifiedTime": 1543072132056,
-            "changeTime": 1543220971247,
-            "contentHash": "c2ce2880f090fcfb14de459ee53d456b14a967c8",
+            "size": 1458,
+            "modifiedTime": 1543244745464,
+            "changeTime": 1543244745464,
+            "contentHash": "954375d58b36e16a53f3c2b001904cc9bb3e49ac",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1693,14 +1685,12 @@
         {
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_Sales_Reports\\SolarBot_Warranty_Call_Sheet_IiZ.report-meta.xml",
             "isDirectory": false,
-            "size": 1185,
-            "modifiedTime": 1543072132060,
-            "changeTime": 1543220971271,
-            "contentHash": "9cb288fc0c52b720b422f6b13942d86ac5413b72",
+            "size": 1687,
+            "modifiedTime": 1543244745458,
+            "changeTime": 1543244745458,
+            "contentHash": "0a429349b853012672e2613d8047c95b2d666e3f",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1736,29 +1726,27 @@
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_Support_Reports\\Status_Reports.report-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_Support_Reports\\Status_Reports.report-meta.xml",
             "isDirectory": false,
+            "size": 2709,
+            "modifiedTime": 1543244745454,
+            "changeTime": 1543244745454,
+            "contentHash": "0ac6a849e0be068ee618db076ab732e5201d685f",
             "isMetadataFile": true,
-            "size": 1222,
-            "modifiedTime": 1543239823943,
-            "changeTime": 1543239823943,
-            "contentHash": "b7c6a6c11e4805344ac8ffcb919ada3b6ab225db"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_Support_Reports\\Top_Case_Drivers_by_SolarBot_Ownership_d4Q.report-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\reports\\SolarBot_Support_Reports\\Top_Case_Drivers_by_SolarBot_Ownership_d4Q.report-meta.xml",
             "isDirectory": false,
-            "size": 2097,
-            "modifiedTime": 1543231047237,
-            "changeTime": 1543231047237,
-            "contentHash": "fb4d5f2e9d4a22893dadee2c47f038984dd7dd59",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 3218,
+            "modifiedTime": 1543249010873,
+            "changeTime": 1543249010873,
+            "contentHash": "feb1ffd8df79601181a10af5a1ccdb44977058a2"
         }
     ],
     [
@@ -1929,79 +1917,144 @@
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\permissionsets\\SolarBot.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\permissionsets\\SolarBot.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4518,
             "modifiedTime": 1543239824005,
             "changeTime": 1543239824005,
-            "contentHash": "1a062b92aa2a7856fbaece5e2977b46c7b0b6b78"
+            "contentHash": "1a062b92aa2a7856fbaece5e2977b46c7b0b6b78",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1543239111665.profilePasswordPolicy-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1543239111665.profilePasswordPolicy-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 632,
             "modifiedTime": 1543239824008,
             "changeTime": 1543239824008,
-            "contentHash": "e4326bb1a1bf01c5ba204cb0fba5919606333b8e"
+            "contentHash": "e4326bb1a1bf01c5ba204cb0fba5919606333b8e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1543239111799.profileSessionSetting-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1543239111799.profileSessionSetting-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 432,
             "modifiedTime": 1543239824010,
             "changeTime": 1543239824010,
-            "contentHash": "3670b3d6c364eec73b32a32e1bf3dc2fff41cb4c"
+            "contentHash": "3670b3d6c364eec73b32a32e1bf3dc2fff41cb4c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543239824004,
             "changeTime": 1543239824004,
-            "contentHash": "fd7f9d385ca313d4af2c902e91a0a0dec87df31c"
+            "contentHash": "fd7f9d385ca313d4af2c902e91a0a0dec87df31c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\profilePasswordPolicies",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\profilePasswordPolicies",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543239824007,
             "changeTime": 1543239824007,
-            "contentHash": "4da2ef07dec0c0fd219462374aeb5a432ad8edc6"
+            "contentHash": "4da2ef07dec0c0fd219462374aeb5a432ad8edc6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\profileSessionSettings",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\profileSessionSettings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543239824009,
             "changeTime": 1543239824009,
-            "contentHash": "795d83ca1d59516679d5b0e69c63bbbf86236e66"
+            "contentHash": "795d83ca1d59516679d5b0e69c63bbbf86236e66",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\dashboards\\SolarBot_Dashboards\\LGTlXhbDKKaDOMpafBeZKCfIloyOQH.dashboard-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\dashboards\\SolarBot_Dashboards\\LGTlXhbDKKaDOMpafBeZKCfIloyOQH.dashboard-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11010,
+            "modifiedTime": 1543249010895,
+            "changeTime": 1543249010895,
+            "contentHash": "60a7f79eca1f4cdf81619f96afec0fb951838d80"
+        }
+    ],
+    [
+        "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\dashboards\\SolarBot_Dashboards.dashboardFolder-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\dashboards\\SolarBot_Dashboards.dashboardFolder-meta.xml",
+            "isDirectory": false,
+            "size": 525,
+            "modifiedTime": 1543244745496,
+            "changeTime": 1543244745496,
+            "contentHash": "b33c7a309b8f591b7409773edbb685f9ea45ed98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\flexipages\\SolarBot_Status_Page_With_Chart.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\flexipages\\SolarBot_Status_Page_With_Chart.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 5204,
+            "modifiedTime": 1543244745501,
+            "changeTime": 1543244745501,
+            "contentHash": "97032757154cb6ff7a99991af4ce7dd3f7431af6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\dashboards\\SolarBot_Dashboards",
+        {
+            "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\dashboards\\SolarBot_Dashboards",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543244745487,
+            "changeTime": 1543244745487,
+            "contentHash": "73cfd5f143c5e381615205b30364c3f485ec929e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\dashboards",
+        {
+            "sourcePath": "C:\\Users\\natha\\Desktop\\Documents\\SFDX\\superbadge-lex-rd\\force-app\\main\\default\\dashboards",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1543244745495,
+            "changeTime": 1543244745495,
+            "contentHash": "86733c64134faaeaa6bd0d670db4770c21e105f1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

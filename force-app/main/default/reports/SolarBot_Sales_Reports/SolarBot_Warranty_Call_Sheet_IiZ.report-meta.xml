@@ -14,11 +14,24 @@
         <field>SolarBot__c.Warranty_Expiration__c</field>
     </columns>
     <filter>
+        <booleanFilter>2 AND (1 OR 3)</booleanFilter>
         <criteriaItems>
             <column>SolarBot__c.Under_Warranty__c</column>
             <isUnlocked>false</isUnlocked>
             <operator>equals</operator>
             <value>0</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>ADDRESS1_STATE</column>
+            <isUnlocked>true</isUnlocked>
+            <operator>equals</operator>
+            <value>NV,UT,CA</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>SolarBot__c.Warranty_Expiration__c</column>
+            <isUnlocked>true</isUnlocked>
+            <operator>equals</operator>
+            <value>NEXT_N_DAYS:45</value>
         </criteriaItems>
     </filter>
     <format>Tabular</format>

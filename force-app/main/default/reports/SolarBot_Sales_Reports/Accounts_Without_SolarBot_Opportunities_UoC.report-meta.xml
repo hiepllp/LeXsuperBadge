@@ -24,7 +24,12 @@
         <relatedTable>Opportunity</relatedTable>
         <relatedTableJoinColumn>Account</relatedTableJoinColumn>
     </crossFilters>
-    <format>Tabular</format>
+    <format>Summary</format>
+    <groupingsDown>
+        <dateGranularity>Day</dateGranularity>
+        <field>ADDRESS1_STATE</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
     <name>Accounts Without SolarBot Opportunities</name>
     <params>
         <name>co</name>
